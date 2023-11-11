@@ -12,9 +12,8 @@ namespace _01._Sort_Numbers
          Console.WriteLine("jakdladj ")
          
          Console.WriteLine("jakdladj ")
-
-
-         
+        
+         Console.WriteLine("");
      }
    }
 }
