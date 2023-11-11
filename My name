@@ -8,6 +8,13 @@ namespace _01._Sort_Numbers
 
          Console.WriteLine("My name is: ");
          Console.WriteLine(name);
+
+         Console.WriteLine("jakdladj ")
+         
+         Console.WriteLine("jakdladj ")
+
+
+         
      }
    }
 }
