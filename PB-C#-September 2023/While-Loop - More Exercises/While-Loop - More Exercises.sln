@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Dishwasher", "01. Dishwasher\01. Dishwasher.csproj", "{2CD35C68-DF6B-4856-B0FC-824C9E6EB7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD35C68-DF6B-4856-B0FC-824C9E6EB7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD35C68-DF6B-4856-B0FC-824C9E6EB7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD35C68-DF6B-4856-B0FC-824C9E6EB7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD35C68-DF6B-4856-B0FC-824C9E6EB7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADB0E461-E51A-49F6-B9F6-E5A81C4119B0}
+	EndGlobalSection
+EndGlobal
