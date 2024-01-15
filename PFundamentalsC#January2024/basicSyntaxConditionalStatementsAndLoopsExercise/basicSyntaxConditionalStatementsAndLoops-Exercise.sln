@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.StrongNumber", "06.Stron
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7VendingMachine", "7VendingMachine\7VendingMachine.csproj", "{972E0A1E-96FA-4D3D-8C00-D25C4F8BDF53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triang", "Triang\Triang.csproj", "{E8C2E8F4-757C-4759-B9F2-88C9CCF24D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triang", "Triang\Triang.csproj", "{E8C2E8F4-757C-4759-B9F2-88C9CCF24D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equipmen", "Equipmen\Equipmen.csproj", "{9E160831-C2AE-45C2-ADC3-6A53524DD828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E8C2E8F4-757C-4759-B9F2-88C9CCF24D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8C2E8F4-757C-4759-B9F2-88C9CCF24D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8C2E8F4-757C-4759-B9F2-88C9CCF24D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E160831-C2AE-45C2-ADC3-6A53524DD828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E160831-C2AE-45C2-ADC3-6A53524DD828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E160831-C2AE-45C2-ADC3-6A53524DD828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E160831-C2AE-45C2-ADC3-6A53524DD828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
